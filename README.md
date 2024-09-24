@@ -1,6 +1,16 @@
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marrietar/) 
 .
+# 👥 People I Follow (random order)
+- [Martin Fowler](https://www.martinfowler.com/)
+- [Khalil Stemler](https://khalilstemmler.com/)
+- [Kent Beck](https://substack.com/@kentbeck)
+- [Robert C Martin](https://blog.cleancoder.com/)
+- [Kent C. Dodds](https://kentcdodds.com/)
+- [Vaught Vernon](https://vaughnvernon.com/)
+- [Gregor Hohpe](https://www.linkedin.com/in/ghohpe)
+
+
 # 💻 Tech Stack:
 
 ## **Core Technologies**
