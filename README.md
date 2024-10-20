@@ -1,19 +1,11 @@
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marrietar/) 
 .
-# 👥 People I Follow (random order)
-- [Martin Fowler](https://www.martinfowler.com/)
-- [Khalil Stemler](https://khalilstemmler.com/)
-- [Kent Beck](https://substack.com/@kentbeck)
-- [Robert C Martin](https://blog.cleancoder.com/)
-- [Kent C. Dodds](https://kentcdodds.com/)
-- [Vaught Vernon](https://vaughnvernon.com/)
-- [Gregor Hohpe](https://www.linkedin.com/in/ghohpe)
-
 
 # 💻 Tech Stack:
 
 ## **Core Technologies**
+- ![Software Design](https://img.shields.io/badge/software_design-blue)
 - ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 - ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
