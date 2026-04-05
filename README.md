@@ -5,7 +5,9 @@
 # 💻 Tech Stack:
 
 ## **Core Technologies**
-- ![Software Design](https://img.shields.io/badge/software_design-blue)
+- ![Clean Architecture](https://img.shields.io/badge/Architecture-Clean%20Architecture-brightgreen?style=for-the-badge)
+- ![Software Design](https://img.shields.io/badge/Architecture-Software%20Design-brightgreen?style=for-the-badge)
+- ![Domain Drive Design](https://img.shields.io/badge/Design-Domain%20Driven%20Design-brightgreen?style=for-the-badge)
 - ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 - ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
